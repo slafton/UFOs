@@ -10,8 +10,8 @@
 ### UFO Sightings with Added Filter Options
 ### ![image](https://github.com/slafton/UFOs/blob/main/static/images/Added%20Filters.png)
 
-### UFO Sigtings Filtered
-
+### UFO Sightings Filtered
+### ![image](https://github.com/slafton/UFOs/blob/main/static/images/Filtered.png)
 
 ## Summary
 ### Drawback
